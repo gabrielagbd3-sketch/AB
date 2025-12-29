@@ -3,6 +3,7 @@ Bob
 Survivor
 Sobrevivente
 bob
+vb
 human
 humano
 Humano

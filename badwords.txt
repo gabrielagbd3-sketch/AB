@@ -1,6 +1,7 @@
 Human
 Bob
 Survivor
+Sobrevivente
 bob
 human
 humano

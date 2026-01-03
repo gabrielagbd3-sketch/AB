@@ -82,7 +82,7 @@
 	  "Blueprint'/Game/PrimalEarth/Structures/Pipes/WaterPipe_Stone_Intake.WaterPipe_Stone_Intake'":                                                   
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 33.230875         
+		"DecayDestructionPeriodMultiplier": 33.230875          
 	},
        "Blueprint'/Game/PrimalEarth/Structures/Wooden/Beam_Wood_SM_New.Beam_Wood_SM_New'":                                                    
 	{

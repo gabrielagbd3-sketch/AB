@@ -1,10 +1,40 @@
 {
-	"Blueprint'/Game/PrimalEarth/Structures/CookingPot.CookingPot'":
+	"Blueprint'/Game/PrimalEarth/Structures/CookingPot.CookingPot'":                             
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 3.3230875
 	},
-	"Blueprint'/Game/PrimalEarth/Structures/Campfire.Campfire'":
+    "Blueprint'/Game/PrimalEarth/Structures/Sign_Large_Wood.Sign_Large_Wood'":                          
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+	 "Blueprint'/Game/PrimalEarth/Structures/Sign_Small_Wood.Sign_Small_Wood'":                           
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+    "Blueprint'/Game/PrimalEarth/Structures/Sign_Wall_Wood.Sign_Wall_Wood'":                           
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+	"Blueprint'/Game/PrimalEarth/Structures/Sign_Small_Metal.Sign_Small_Metal'":                          
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 132.9235
+	},
+	   "Blueprint'/Game/PrimalEarth/Structures/Sign_Wall_Metal.Sign_Wall_Metal'":                           
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 132.9235
+	},
+	   "Blueprint'/Game/PrimalEarth/Structures/Sign_Large_Metal.Sign_Large_Metal'":                        
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 132.9235
+	},
+  "Blueprint'/Game/PrimalEarth/Structures/Campfire.Campfire'":
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 3.3230875
@@ -17,33 +47,74 @@
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Floor.Thatch_Floor'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 26.5847
+		"DecayDestructionPeriodMultiplier": 33.230875
 	},
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Wall_Small.Thatch_Wall_Small'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 26.5847
+		"DecayDestructionPeriodMultiplier": 33.230875
 	},
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Doorframe.Thatch_Doorframe'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 26.5847
+		"DecayDestructionPeriodMultiplier": 33.230875
 	},
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Door.Thatch_Door'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 26.5847
+		"DecayDestructionPeriodMultiplier": 33.230875
 	},
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Ceiling.Thatch_Ceiling'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 26.5847
+		"DecayDestructionPeriodMultiplier": 33.230875                                               
 	},
-    "Blueprint'/Game/PrimalEarth/Structures/IndustrialCookingPot.IndustrialCookingPot'":
+	"Blueprint'/Game/PrimalEarth/Structures/StorageBox_Small.StorageBox_Small'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 4
+		"DecayDestructionPeriodMultiplier": 33.230875
 	},
+	"Blueprint'/Game/PrimalEarth/Structures/StorageBox_Large.StorageBox_Large'":                  
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+	"Blueprint'/Game/PrimalEarth/Structures/Flag_SM_Single.Flag_SM_Single'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Flag_SM.Flag_SM'":                                             
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/StandingTorch.StandingTorch'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Halloween/Structure_TrainingDummy.Structure_TrainingDummy'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
+			"Blueprint'/Game/PrimalEarth/Structures/Halloween/Structure_TrainingDummy.Structure_TrainingDummy'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
+
+
+
+
+
+
+
+
+
+
+	
     "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'":
     {
         "bConditionallyEnableMeshCheckWhenFalling": false,

@@ -22,17 +22,12 @@
 	"Blueprint'/Game/PrimalEarth/Structures/Sign_Small_Metal.Sign_Small_Metal'":                          
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 132.9235
+		"DecayDestructionPeriodMultiplier": 66.46175
 	},
 	   "Blueprint'/Game/PrimalEarth/Structures/Sign_Wall_Metal.Sign_Wall_Metal'":                           
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 132.9235
-	},
-	   "Blueprint'/Game/PrimalEarth/Structures/Sign_Large_Metal.Sign_Large_Metal'":                        
-	{
-		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 132.9235
+		"DecayDestructionPeriodMultiplier": 66.46175
 	},
   "Blueprint'/Game/PrimalEarth/Structures/Campfire.Campfire'":
 	{

@@ -2,27 +2,27 @@
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Floor.Thatch_Floor'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 13.29235
+		"DecayDestructionPeriodMultiplier": 26.5847
 	},
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Wall_Small.Thatch_Wall_Small'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 13.29235
+		"DecayDestructionPeriodMultiplier": 26.5847
 	},
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Doorframe.Thatch_Doorframe'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 13.29235
+		"DecayDestructionPeriodMultiplier": 26.5847
 	},
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Door.Thatch_Door'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 13.29235
+		"DecayDestructionPeriodMultiplier": 26.5847
 	},
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Ceiling.Thatch_Ceiling'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 13.29235
+		"DecayDestructionPeriodMultiplier": 26.5847
 	},
     "Blueprint'/Game/PrimalEarth/Structures/IndustrialCookingPot.IndustrialCookingPot'":
 	{

@@ -4,12 +4,17 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 3.3230875
 	},
+	"Blueprint'/Game/PrimalEarth/Structures/C4Charge.C4Charge'":                             
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 3.3230875
+	},
     "Blueprint'/Game/PrimalEarth/Structures/Sign_Large_Wood.Sign_Large_Wood'":                          
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
-	 "Blueprint'/Game/PrimalEarth/Structures/Sign_Small_Wood.Sign_Small_Wood'":                           
+	 "Blueprint'/Game/PrimalEarth/Structures/Sign_Small_Wood.Sign_Small_Wood'":                                
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
@@ -94,7 +99,7 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
-		"Blueprint'/Game/PrimalEarth/Structures/cropPlot/CropPlotSmall_D.CropPlotSmall_D'":                                                    
+		"Blueprint'/Game/PrimalEarth/Structures/cropPlot/CropPlotSmall_N.CropPlotSmall_N'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 0.00000001

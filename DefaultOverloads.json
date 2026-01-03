@@ -99,23 +99,12 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
-			"Blueprint'/Game/PrimalEarth/Structures/Halloween/Structure_TrainingDummy.Structure_TrainingDummy'":                                                    
+		"Blueprint'/Game/PrimalEarth/Structures/cropPlot/T_CropPlotLarge_Layered.T_CropPlotLarge_Layered'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 33.230875
+		"DecayDestructionPeriodMultiplier": 959595656259595959695295
 	},
-
-
-
-
-
-
-
-
-
-
-	
-    "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'":
+        "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'":
     {
         "bConditionallyEnableMeshCheckWhenFalling": false,
         "bConditionallyEnableMeshCheckWhenFlying": false

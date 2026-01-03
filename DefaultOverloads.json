@@ -49,7 +49,32 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
-	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Wall_Small.Thatch_Wall_Small'":
+    "Blueprint'/Game/PrimalEarth/Structures/Thatch/ThatchDoorframe/DoorFrame.DoorFrame'":
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
+	"Blueprint'/Game/PrimalEarth/Structures/Thatch/ThatchDoorframe/ThatchDoor.ThatchDoor'":
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
+	"Blueprint'/Game/PrimalEarth/Structures/Thatch/ThatchFloor/Thatch_Floor.Thatch_Floor'":
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
+    "Blueprint'/Game/PrimalEarth/Structures/Thatch/ThatchRoof/ThatchRoof.ThatchRoof'":
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
+	"Blueprint'/Game/PrimalEarth/Structures/Thatch/ThatchWall/ThatchWall.ThatchWall'":
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
+    "Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Wall_Small.Thatch_Wall_Small'":
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
@@ -99,10 +124,120 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
-		"Blueprint'/Game/PrimalEarth/Structures/cropPlot/T_CropPlotLarge_Layered.T_CropPlotLarge_Layered'":                                                    
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Floor_Wood.Floor_Wood'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 0.00000001
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+        "Blueprint'/Game/PrimalEarth/Structures/Wooden/BeaverDam.BeaverDam'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 3.3230875
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Beam_Wood.Beam_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Ceiling_Door_Wood.Ceiling_Door_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Ceiling_Doorway_Wood.Ceiling_Doorway_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Ceiling_Wood_SM.Ceiling_Wood_SM'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Ceiling_Wood_Small.Ceiling_Wood_Small'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/CropPlotLarge_SM.CropPlotLarge_SM'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/CropPlotMedium_SM.CropPlotMedium_SM'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33,230875
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/CropPlotSmall_SM.CropPlotSmall_SM'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33,230875
+	},
+        "Blueprint'/Game/PrimalEarth/Structures/Wooden/Door_Wood.Door_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66,46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Doorframe_Wood.Doorframe_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66,46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/FenceFoundation.FenceFoundation'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66,46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/FenceFoundation_Wood_SM.FenceFoundation_Wood_SM'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66,46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Gate_SM.Gate_SM'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66,46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Ladder_Rope.Ladder_Rope'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66,46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Pillar_Wood.Pillar_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66,46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Railing_Wood.Railing_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66,46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Ramp_Wood.Ramp_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66,46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/SpikeWall.SpikeWall'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66,46175
+	},
+        "Blueprint'/Game/PrimalEarth/Structures/Wooden/SpikeWall_Wood.SpikeWall_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66,46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Wall_Wood_Small.Wall_Wood_Small'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66,46175
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Window_Wall_Wood.Window_Wall_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66,46175
 	},
         "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'":
     {

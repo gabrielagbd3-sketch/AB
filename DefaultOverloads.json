@@ -1,5 +1,5 @@
 {
-	"Blueprint'/Game/PrimalEarth/Structures/Thatch/ThatchFloor.ThatchFloor'":
+	"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchFloor.PrimalItemStructure_ThatchFloor'":
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 2

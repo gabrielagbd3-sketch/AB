@@ -57,27 +57,27 @@
         "Blueprint'/Game/PrimalEarth/Structures/Pipes/WaterPipe_Stone_Vertical.WaterPipe_Stone_Vertical'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 33.230875         
+		"DecayDestructionPeriodMultiplier": 16.615436         
 	},
 		 "Blueprint'/Game/PrimalEarth/Structures/Pipes/WaterPipe_Stone_Up.WaterPipe_Stone_Up'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 33.230875        
+		"DecayDestructionPeriodMultiplier": 16.615436         
 	},
 		"Blueprint'/Game/PrimalEarth/Structures/Pipes/WaterPipe_Stone_Straight.WaterPipe_Stone_Straight'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 33.230875         
+		"DecayDestructionPeriodMultiplier": 16.615436          
 	},
 		 "Blueprint'/Game/PrimalEarth/Structures/Pipes/WaterPipe_Stone_Intersection.WaterPipe_Stone_Intersection'":                                                   
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 33.230875         
+		"DecayDestructionPeriodMultiplier": 16.615436    
 	},
 	  "Blueprint'/Game/PrimalEarth/Structures/Pipes/WaterPipe_Stone_Intake.WaterPipe_Stone_Intake'":                                                   
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 33.230875          
+		"DecayDestructionPeriodMultiplier": 16.615436         
 	},
        "Blueprint'/Game/PrimalEarth/Structures/Wooden/Beam_Wood_SM_New.Beam_Wood_SM_New'":                                                    
 	{

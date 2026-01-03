@@ -14,12 +14,7 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875 
 	},
-	     "Blueprint'/Game/PrimalEarth/StructuresPlus/Pipes/Flex/Metal/BP_PipeFlex_Metal.BP_PipeFlex_Metal'":                                                    
-	{
-		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 212.6776
-	},
-	     "Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/Ceilings/Triangle/Wood/BP_TriCeiling_Wood.BP_TriCeiling_Wood'":                                                    
+        "Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/Ceilings/Triangle/Wood/BP_TriCeiling_Wood.BP_TriCeiling_Wood'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 66.46175
@@ -393,6 +388,11 @@
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+		     "Blueprint'/Game/PrimalEarth/StructuresPlus/Pipes/Flex/Metal/BP_PipeFlex_Metal.BP_PipeFlex_Metal'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 212.6776
 	},
         "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'":
     {

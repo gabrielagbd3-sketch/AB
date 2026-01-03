@@ -99,7 +99,7 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
-		"Blueprint'/Game/PrimalEarth/Structures/cropPlot/CropPlotSmall_N.CropPlotSmall_N'":                                                    
+		"Blueprint'/Game/PrimalEarth/Structures/cropPlot/CropPlotSmall_MIC.CropPlotSmall_MIC'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 0.00000001

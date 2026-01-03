@@ -89,6 +89,11 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
+     "Blueprint'/Game/PrimalEarth/Structures/BuildingBases/Cage_Wood.Cage_Wood'":
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Ceiling.Thatch_Ceiling'":
 	{
 		"DecayDestructionPeriod": 6500,

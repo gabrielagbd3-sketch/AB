@@ -79,6 +79,21 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
+    "Blueprint'/Game/PrimalEarth/Structures/Wardrums/SM_Drums.SM_Drums'":
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
+	"Blueprint'/Game/PrimalEarth/Structures/Thatch/BeeHive/BeeHive_PlayerOwned.BeeHive_PlayerOwned'":
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 3.3230875
+	},
+    "Blueprint'/Game/PrimalEarth/Structures/Thatch/BeeHive/BeeHive_PlayerOwned.BeeHive_PlayerOwned'":
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 132,9235
+	},
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Doorframe.Thatch_Doorframe'":
 	{
 		"DecayDestructionPeriod": 6500,

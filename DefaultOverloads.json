@@ -4,7 +4,87 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 3.3230875
 	},
-        "Blueprint'/Game/PrimalEarth/Structures/Wooden/Beam_Wood_SM_New.Beam_Wood_SM_New'":                                                    
+       "Blueprint'/Game/PrimalEarth/StructuresPlus/Doors/Doors_Double/Wood/BP_DoubleDoor_Wood.BP_DoubleDoor_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+	    "Blueprint'/Game/PrimalEarth/StructuresPlus/Pipes/Flex/Stone/BP_PipeFlex_Stone.BP_PipeFlex_Stone'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875 
+	},
+	     "Blueprint'/Game/PrimalEarth/StructuresPlus/Pipes/Flex/Metal/BP_PipeFlex_Metal.BP_PipeFlex_Metal'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 212.6776
+	},
+	     "Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/Ceilings/Triangle/Wood/BP_TriCeiling_Wood.BP_TriCeiling_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+	     "Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/Doorframes_Double/Wood/BP_DoubleDoorframe_Wood.BP_DoubleDoorframe_WoodBeam_Wood_SM_New'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+	    "Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/FenceSupports/Wood/BP_FenceSupport_Wood.BP_FenceSupport_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+	     "Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/Foundations/Triangle/Wood/BP_TriFoundation_Wood.BP_TriFoundation_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+	     "Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/Ramps/Wood/BP_Ramp_Wood.BP_Ramp_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+	     "Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/Roofs_Tri/Wood/BP_TriRoof_Wood.BP_TriRoof_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
+	     "Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/Walls_L/Wood/BP_LargeWall_Wood.BP_LargeWall_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175        
+	},
+		 "Blueprint'/Game/PrimalEarth/StructuresPlus/Wires/Flex/BP_Wire_Flex.BP_Wire_Flex'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 212.6776
+	},
+        "Blueprint'/Game/PrimalEarth/Structures/Pipes/WaterPipe_Stone_Vertical.WaterPipe_Stone_Vertical'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875         
+	},
+		 "Blueprint'/Game/PrimalEarth/Structures/Pipes/WaterPipe_Stone_Up.WaterPipe_Stone_Up'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875        
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Pipes/WaterPipe_Stone_Straight.WaterPipe_Stone_Straight'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875         
+	},
+		 "Blueprint'/Game/PrimalEarth/Structures/Pipes/WaterPipe_Stone_Intersection.WaterPipe_Stone_Intersection'":                                                   
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875         
+	},
+	  "Blueprint'/Game/PrimalEarth/Structures/Pipes/WaterPipe_Stone_Intake.WaterPipe_Stone_Intake'":                                                   
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875         
+	},
+       "Blueprint'/Game/PrimalEarth/Structures/Wooden/Beam_Wood_SM_New.Beam_Wood_SM_New'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 66.46175
@@ -232,7 +312,7 @@
 		"Blueprint'/Game/PrimalEarth/Structures/Wooden/CropPlotLarge_SM.CropPlotLarge_SM'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 66.46175
+		"DecayDestructionPeriodMultiplier": 132.9235
 	},
 		"Blueprint'/Game/PrimalEarth/Structures/Wooden/CropPlotMedium_SM.CropPlotMedium_SM'":                                                    
 	{

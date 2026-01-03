@@ -124,6 +124,11 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 66.46175
 	},
+        "Blueprint'/Game/PrimalEarth/Structures/BuildingBases/StairSM_Wood.StairSM_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 66.46175
+	},
 		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Wall_Wood_Small_SM_New.Wall_Wood_Small_SM_New'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,

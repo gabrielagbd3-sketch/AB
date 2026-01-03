@@ -279,12 +279,7 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 66.46175
 	},
-        "Blueprint'/Game/PrimalEarth/Structures/Wooden/BeaverDam.BeaverDam'":                                                    
-	{
-		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 3.3230875
-	},
-		"Blueprint'/Game/PrimalEarth/Structures/Wooden/Beam_Wood.Beam_Wood'":                                                    
+       "Blueprint'/Game/PrimalEarth/Structures/Wooden/Beam_Wood.Beam_Wood'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 66.46175

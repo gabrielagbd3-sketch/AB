@@ -94,10 +94,10 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
-		"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_CropPlot_Large.PrimalItemStructure_CropPlot_Large'":                                                    
+		"Blueprint'/Game/PrimalEarth/Structures/cropPlot/CropPlotSmall_SM.CropPlotSmall_SM'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 959595656259595959695295
+		"DecayDestructionPeriodMultiplier": 0.00000001
 	},
         "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'":
     {

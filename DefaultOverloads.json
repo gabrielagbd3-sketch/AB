@@ -19,7 +19,7 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
-	     "Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/Doorframes_Double/Wood/BP_DoubleDoorframe_WoodBeam_Wood_SM_New.BP_DoubleDoorframe_WoodBeam_Wood_SM_New'":                                                    
+	     "Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/Doorframes_Double/Wood/BP_DoubleDoorframe_Wood.BP_DoubleDoorframe_Wood'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875

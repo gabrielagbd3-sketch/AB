@@ -79,7 +79,7 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
-    "Blueprint'/Game/PrimalEarth/Structures/Wardrums/SM_Drums.SM_Drums'":
+    "Blueprint'/Game/PrimalEarth/Structures/Wardrums/StructureBP_Wardrums.StructureBP_Wardrums'":
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875

@@ -2,7 +2,7 @@
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Floor.Thatch_Floor'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 13.2922
+		"DecayDestructionPeriodMultiplier": 13.2923
 	},
 	"Blueprint'/Game/PrimalEarth/Structures/IndustrialCookingPot.IndustrialCookingPot'":
 	{

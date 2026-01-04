@@ -304,22 +304,52 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
-		     "Blueprint'/Game/PrimalEarth/StructuresPlus/Pipes/Flex/Metal/BP_PipeFlex_Metal.BP_PipeFlex_Metal'":                                                    
+		 "Blueprint'/Game/PrimalEarth/StructuresPlus/Pipes/Flex/Metal/BP_PipeFlex_Metal.BP_PipeFlex_Metal'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 106.3388
 	},
-        "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'":
+        "Blueprint'/Game/PrimalEarth/Structures/Electric/Electric_Cable_Vertical.Electric_Cable_Vertical'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 106.3388
+	},
+	    "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableBaseBP.ElectricCableBaseBP'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 106.3388
+	}
+		"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableDiagonal.ElectricCableDiagonal'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 106.3388
+	}
+		"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableIntersection.ElectricCableIntersection'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 106.3388
+	}
+		"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableStraight.ElectricCableStraight'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 106.3388
+	}
+		 "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricJunction.ElectricJunction'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 106.3388
+	}
+       "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'":
     {
         "bConditionallyEnableMeshCheckWhenFalling": false,
         "bConditionallyEnableMeshCheckWhenFlying": false
     },
-    "Blueprint'/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP'":
+       "Blueprint'/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP'":
     {
         "bConditionallyEnableMeshCheckWhenFalling": false,
         "bConditionallyEnableMeshCheckWhenFlying": false
     },
-	"Blueprint'/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP'":
+	   "Blueprint'/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP'":
 	{
 	    "bConditionallyEnableMeshCheckWhenFalling": false,
         "bConditionallyEnableMeshCheckWhenFlying": false

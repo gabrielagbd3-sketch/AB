@@ -14,6 +14,21 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230874
 	},
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Thatch/ThatchRoof_SM.ThatchRoof_SM'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230874
+	},
+	"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Thatch/ThatchWall_Sloped_Left_SM.ThatchWall_Sloped_Left_SM'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230874
+	},
+	"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Thatch/ThatchWall_Sloped_Right_SM.ThatchWall_Sloped_Right_SM'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230874
+	},
 "Blueprint'/Game/PrimalEarth/Structures/Wooden/Window_Wood_BP.Window_Wood_BP'":                                                                         
 	{
 		"DecayDestructionPeriod": 6500,

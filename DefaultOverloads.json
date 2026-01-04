@@ -122,22 +122,22 @@
 "Blueprint'/Game/PrimalEarth/Structures/Bookshelf.Bookshelf'":                                                 
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 66.46172
+		"DecayDestructionPeriodMultiplier": 66.4617
 	},
 	 "Blueprint'/Game/PrimalEarth/Structures/FeedingTrough.FeedingTrough'":                                                 
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 66.46172
+		"DecayDestructionPeriodMultiplier": 66.4617
 	},
 	 "Blueprint'/Game/PrimalEarth/Structures/PreservingBin/PreservingBin.PreservingBin'":                                                 
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 66.46172
+		"DecayDestructionPeriodMultiplier": 66.4617
 	},
 "Blueprint'/Game/PrimalEarth/Structures/BuildingBases/Sign_PaintingCanvas.Sign_PaintingCanvas'":                                                 
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 66.46172
+		"DecayDestructionPeriodMultiplier": 66.4617
 	},
 "Blueprint'/Game/PrimalEarth/Structures/Wooden/Railing_Wood.Railing_Wood'":                                                    
 	{
@@ -282,12 +282,12 @@
     "Blueprint'/Game/PrimalEarth/Structures/Sign_Small_Metal.Sign_Small_Metal'":                          
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 66.46172
+		"DecayDestructionPeriodMultiplier": 66.4617
 	},
 	"Blueprint'/Game/PrimalEarth/Structures/Sign_Wall_Metal.Sign_Wall_Metal'":                           
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 66.46172
+		"DecayDestructionPeriodMultiplier": 66.4617
 	},
     "Blueprint'/Game/PrimalEarth/Structures/Campfire.Campfire'":
 	{
@@ -382,7 +382,7 @@
     	"Blueprint'/Game/PrimalEarth/Structures/StorageBox_Large.StorageBox_Large'":                  
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 66.46172
+		"DecayDestructionPeriodMultiplier": 66.4617
 	},
     	"Blueprint'/Game/PrimalEarth/Structures/Flag_SM_Single.Flag_SM_Single'":                                                    
 	{

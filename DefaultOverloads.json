@@ -184,7 +184,12 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
-       "Blueprint'/Game/PrimalEarth/Structures/Thatch/ThatchDoorframe/DoorFrame.DoorFrame'":
+	     "Blueprint'/Game/PrimalEarth/Structures/Wooden/SpikeWall_Wood.SpikeWall_Wood'":
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
+        "Blueprint'/Game/PrimalEarth/Structures/Thatch/ThatchDoorframe/DoorFrame.DoorFrame'":
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875

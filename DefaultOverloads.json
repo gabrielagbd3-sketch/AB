@@ -29,7 +29,12 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.2308746
 	},
-	"Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/FenceSupports/Wood/BP_FenceSupport_Wood.BP_FenceSupport_Wood'":                                                    
+"Blueprint'/Game/PrimalEarth/Structures/Wooden/Railing_Wood.Railing_Wood'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.2308746
+	},
+"Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/FenceSupports/Wood/BP_FenceSupport_Wood.BP_FenceSupport_Wood'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.2308746

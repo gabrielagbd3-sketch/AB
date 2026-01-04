@@ -27,17 +27,17 @@
 		"Blueprint'/Game/PrimalEarth/Structures/Furniture/StructureBP_Toilet.StructureBP_Toilet'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 33.23080
+		"DecayDestructionPeriodMultiplier": 16.6154375
 	},
 		"Blueprint'/Game/PrimalEarth/Structures/Furniture/StructureBP_WoodBench.StructureBP_WoodBench'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 33.23080
+		"DecayDestructionPeriodMultiplier": 16.6154375
 	},
 		"Blueprint'/Game/PrimalEarth/Structures/Furniture/StructureBP_WoodChair.StructureBP_WoodChair'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 33.23080
+		"DecayDestructionPeriodMultiplier": 16.6154375
 	},
 		"Blueprint'/Game/PrimalEarth/Structures/WoodTable.WoodTable'":                                                    
 	{

@@ -9,7 +9,12 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.23080
 	},
-	"Blueprint'/Game/PrimalEarth/StructuresPlus/Pipes/Flex/Stone/BP_PipeFlex_Stone.BP_PipeFlex_Stone'":                                                    
+"Blueprint'/Game/PrimalEarth/Structures/BuildingBases/WaterTankBaseBP.WaterTankBaseBP'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.23080
+	},
+"Blueprint'/Game/PrimalEarth/StructuresPlus/Pipes/Flex/Stone/BP_PipeFlex_Stone.BP_PipeFlex_Stone'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.23080

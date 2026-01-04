@@ -22,7 +22,7 @@
 	"Blueprint'/Game/PrimalEarth/Structures/Furniture/StructureBP_Gravestone.StructureBP_Gravestone'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 3.3230875
+		"DecayDestructionPeriodMultiplier": 6.646175
 	},
 		"Blueprint'/Game/PrimalEarth/Structures/Furniture/StructureBP_Toilet.StructureBP_Toilet'":                                                    
 	{
@@ -137,7 +137,7 @@
 		"Blueprint'/Game/PrimalEarth/StructuresPlus/Wires/Flex/BP_Wire_Flex.BP_Wire_Flex'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 106.3380
+		"DecayDestructionPeriodMultiplier": 106.3386
 	},
     "Blueprint'/Game/PrimalEarth/Structures/Pipes/WaterPipe_Stone_Vertical.WaterPipe_Stone_Vertical'":                                                    
 	{
@@ -387,37 +387,37 @@
 		 "Blueprint'/Game/PrimalEarth/StructuresPlus/Pipes/Flex/Metal/BP_PipeFlex_Metal.BP_PipeFlex_Metal'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 106.3380
+		"DecayDestructionPeriodMultiplier": 106.3386
 	},
         "Blueprint'/Game/PrimalEarth/Structures/Electric/Electric_Cable_Vertical.Electric_Cable_Vertical'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 106.3380
+		"DecayDestructionPeriodMultiplier": 106.3386
 	},
 	    "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableBaseBP.ElectricCableBaseBP'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 106.3380
+		"DecayDestructionPeriodMultiplier": 106.3386
 	},
 		"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableDiagonal.ElectricCableDiagonal'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 106.3380
+		"DecayDestructionPeriodMultiplier": 106.3386
 	},
 		"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableIntersection.ElectricCableIntersection'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 106.3380
+		"DecayDestructionPeriodMultiplier": 106.3386
 	},
 		"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableStraight.ElectricCableStraight'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 106.3380
+		"DecayDestructionPeriodMultiplier": 106.3386
 	},
 		 "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricJunction.ElectricJunction'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 106.3380
+		"DecayDestructionPeriodMultiplier": 106.3386
 	},
        "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'":
     {

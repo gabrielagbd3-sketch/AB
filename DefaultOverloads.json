@@ -14,6 +14,11 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.23086
 	},
+"Blueprint'/Game/PrimalEarth/Structures/CompostBin.CompostBin'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 16.615436
+	},
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Thatch/ThatchRoof_SM.ThatchRoof_SM'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,

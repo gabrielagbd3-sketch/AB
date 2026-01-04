@@ -57,7 +57,7 @@
 		 "Blueprint'/Game/PrimalEarth/StructuresPlus/Wires/Flex/BP_Wire_Flex.BP_Wire_Flex'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 212.6776
+		"DecayDestructionPeriodMultiplier": 106.3388
 	},
         "Blueprint'/Game/PrimalEarth/Structures/Pipes/WaterPipe_Stone_Vertical.WaterPipe_Stone_Vertical'":                                                    
 	{
@@ -307,7 +307,7 @@
 		     "Blueprint'/Game/PrimalEarth/StructuresPlus/Pipes/Flex/Metal/BP_PipeFlex_Metal.BP_PipeFlex_Metal'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 212.6776
+		"DecayDestructionPeriodMultiplier": 106.3388
 	},
         "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'":
     {

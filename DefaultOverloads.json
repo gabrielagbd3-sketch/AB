@@ -19,7 +19,32 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.23080
 	},
-"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Thatch/ThatchRoof_SM.ThatchRoof_SM'":                                                    
+	"Blueprint'/Game/PrimalEarth/Structures/Furniture/StructureBP_Gravestone.StructureBP_Gravestone'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.23080
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Furniture/StructureBP_Toilet.StructureBP_Toilet'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.23080
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Furniture/StructureBP_WoodBench.StructureBP_WoodBench'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.23080
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/Furniture/StructureBP_WoodChair.StructureBP_WoodChair'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.23080
+	},
+		"Blueprint'/Game/PrimalEarth/Structures/WoodTable.WoodTable'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.23080
+	},
+        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Thatch/ThatchRoof_SM.ThatchRoof_SM'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.23080

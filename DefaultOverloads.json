@@ -79,7 +79,7 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.23080
 	},
-	"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Wood/Ladder_Rope.Ladder_Rope'":                                                    
+	"Blueprint'/Game/PrimalEarth/Structures/Wooden/Ladder_Rope.Ladder_Rope'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.23080

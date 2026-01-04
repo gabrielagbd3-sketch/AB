@@ -109,6 +109,21 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.23080
 	},
+ "Blueprint'/Game/PrimalEarth/Structures/Wooden/Gate_SM.Gate_SM'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.23080
+	},
+	 "Blueprint'/Game/PrimalEarth/Structures/Wooden/GateFrame_Wood_SM.GateFrame_Wood_SM'":                                                 
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.23080
+	},
+		 "Blueprint'/Game/PrimalEarth/Structures/BuildingBases/Sign_PaintingCanvas.Sign_PaintingCanvas'":                                                 
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.23080
+	},
 "Blueprint'/Game/PrimalEarth/Structures/Wooden/Railing_Wood.Railing_Wood'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,

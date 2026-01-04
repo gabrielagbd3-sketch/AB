@@ -29,6 +29,11 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.230875
 	},
+        "Blueprint'/Game/PrimalEarth/Structures/Wooden/FenceFoundation_Wood_SM.FenceFoundation_Wood_SM'":                                                    
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 33.230875
+	},
 	     "Blueprint'/Game/PrimalEarth/StructuresPlus/Structures/Foundations/Triangle/Wood/BP_TriFoundation_Wood.BP_TriFoundation_Wood'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,

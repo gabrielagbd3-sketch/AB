@@ -318,27 +318,27 @@
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 106.3388
-	}
+	},
 		"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableDiagonal.ElectricCableDiagonal'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 106.3388
-	}
+	},
 		"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableIntersection.ElectricCableIntersection'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 106.3388
-	}
+	},
 		"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableStraight.ElectricCableStraight'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 106.3388
-	}
+	},
 		 "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricJunction.ElectricJunction'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 106.3388
-	}
+	},
        "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'":
     {
         "bConditionallyEnableMeshCheckWhenFalling": false,

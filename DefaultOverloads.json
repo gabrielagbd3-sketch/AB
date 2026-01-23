@@ -352,7 +352,7 @@
     "Blueprint'/Game/PrimalEarth/Structures/BeeHive/BeeHive_PlayerOwned.BeeHive_PlayerOwned'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 132.923
+		"DecayDestructionPeriodMultiplier": 132.9232
 	},
 	"Blueprint'/Game/PrimalEarth/Structures/Thatch/Thatch_Doorframe.Thatch_Doorframe'":
 	{
@@ -412,7 +412,7 @@
 		"Blueprint'/Game/PrimalEarth/Structures/Wooden/CropPlotLarge_SM.CropPlotLarge_SM'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 132.923
+		"DecayDestructionPeriodMultiplier": 132.9232
 	},
 		"Blueprint'/Game/PrimalEarth/Structures/Wooden/CropPlotMedium_SM.CropPlotMedium_SM'":                                                    
 	{

@@ -412,7 +412,7 @@
 		"Blueprint'/Game/PrimalEarth/Structures/Wooden/CropPlotLarge_SM.CropPlotLarge_SM'":                                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 132.9235
+		"DecayDestructionPeriodMultiplier": 132.922
 	},
 		"Blueprint'/Game/PrimalEarth/Structures/Wooden/CropPlotMedium_SM.CropPlotMedium_SM'":                                                    
 	{

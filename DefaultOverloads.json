@@ -349,12 +349,7 @@
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 33.23080
 	},
-    "Blueprint'/Game/PrimalEarth/Structures/Thatch/BeeHive/BeeHive_PlayerOwned.BeeHive_PlayerOwned'":
-	{
-		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 3.3230875
-	},
-    "Blueprint'/Game/PrimalEarth/Structures/Thatch/BeeHive/BeeHive_PlayerOwned.BeeHive_PlayerOwned'":
+    "Blueprint'/Game/PrimalEarth/Structures/BeeHive/BeeHive_PlayerOwned.BeeHive_PlayerOwned'":
 	{
 		"DecayDestructionPeriod": 6500,
 		"DecayDestructionPeriodMultiplier": 132.9235
